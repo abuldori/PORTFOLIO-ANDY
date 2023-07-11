@@ -175,6 +175,7 @@ html{
     align-items: center;
     justify-content: center;
     transition: .3s;
+
 }.sobremi .fila .col .contenedor-intereses .interes:hover{
     background-color: #1CB698;
 }
@@ -208,6 +209,9 @@ html{
 .sobremi button:hover .overlay{
     width: 100%;
 }
+
+
+
 /* SECCION S K I L L S */
 .skills{
     background-color: #252A2E;
