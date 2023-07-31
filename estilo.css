@@ -71,18 +71,18 @@ html{
     max-width: 400px;
     margin: auto;
     text-align: center;
-    border-radius: 40px;
+    border-radius: 50px;
 }
 .inicio .contenido-banner img{
     border: 10px solid #f161e0;
     display: block;
-    width: 80%;
+    width: 60%;
     margin: auto;
     margin-top: 3rem;
     border-radius: 8%;
 }
 .inicio .contenido-banner h1{
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 30px;
     font-family: 'Righteous';
 }
@@ -117,7 +117,7 @@ html{
     margin: auto;
 }
 .sobremi h2{
-    font-size: 48px;
+    font-size: 40px;
     font-family: 'Righteous';
     text-align: center;
     padding: 20px 0;
