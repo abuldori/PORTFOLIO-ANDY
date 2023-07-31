@@ -66,7 +66,7 @@ html{
     align-items: center;
 }
 .inicio .contenido-banner{
-    padding: 80px;
+    padding: 20px;
     background-color: #1e2326;
     max-width: 400px;
     margin: auto;
@@ -76,9 +76,9 @@ html{
 .inicio .contenido-banner img{
     border: 10px solid #f161e0;
     display: block;
-    width: 70%;
+    width: 60%;
     margin: auto;
-    margin-top: 3rem;
+    margin-top: 3.5rem;
     border-radius: 8%;
 }
 .inicio .contenido-banner h1{
@@ -107,6 +107,8 @@ html{
 .inicio .contenido-banner .redes a:hover{
     background-color: #f161e0;
 }
+
+
 .sobremi{
     background-color: #1e2326;
     color: #fff;
